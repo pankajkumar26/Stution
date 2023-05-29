@@ -1,0 +1,29 @@
+{
+  "name": "stution",
+  "version": "1.0.0",
+  "description": "This is a one stop solution for the students. Multiple tools such as Assignment Help, PPT Generator, Events Information, Students Community are merged together to form a single platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajkumar26/Stution.git"
+  },
+  "keywords": [
+    "latest-commit",
+    "git-commit",
+    "commit-info",
+    "the-git-commit"
+
+  ],
+  "author": "Pankaj,Pratham,Kanak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankajkumar26/Stution/issues"
+  },
+  "homepage": "https://github.com/pankajkumar26/Stution#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
